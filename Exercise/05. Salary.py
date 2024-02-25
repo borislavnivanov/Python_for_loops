@@ -18,5 +18,5 @@ for i in range(0, browser_tabs):
         print('You have lost your salary.')
         break
 
-if salary > 0:
+else:
     print(salary)
